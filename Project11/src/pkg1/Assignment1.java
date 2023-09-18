@@ -11,7 +11,7 @@ public class Assignment1 {
 	
 	public void display2()
 	{
-		System.out.println("Automation is veray easy");
+		System.out.println("Automation as veray easy");
 	}
 	
 	public static void main(String[] args) {
