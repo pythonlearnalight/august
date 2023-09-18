@@ -6,7 +6,7 @@ public class Assignment1 {
 	
 	public void display1()
 	{
-		System.out.println("Wlcome all of you");
+		System.out.println("Wlcome alll of you");
 	}
 	
 	public void display2()
